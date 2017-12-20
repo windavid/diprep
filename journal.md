@@ -1,3 +1,10 @@
+# december
+qemu configuration
+linux from scratch
+[.] [lfs](http://www.linuxfromscratch.org/lfs/view/stable/)
+    introdution...
+syzcaller demos
+[.] [setup.md](demos/setup.md)
 
 # november
 general fuzzing:
